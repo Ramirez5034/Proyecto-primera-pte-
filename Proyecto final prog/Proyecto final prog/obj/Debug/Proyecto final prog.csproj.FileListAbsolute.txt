@@ -1,0 +1,9 @@
+C:\Users\XIAOMI\Desktop\Proyecto final prog\Proyecto final prog\bin\Debug\Proyecto final prog.exe.config
+C:\Users\XIAOMI\Desktop\Proyecto final prog\Proyecto final prog\bin\Debug\Proyecto final prog.exe
+C:\Users\XIAOMI\Desktop\Proyecto final prog\Proyecto final prog\bin\Debug\Proyecto final prog.pdb
+C:\Users\XIAOMI\Desktop\Proyecto final prog\Proyecto final prog\obj\Debug\Proyecto final prog.csprojResolveAssemblyReference.cache
+C:\Users\XIAOMI\Desktop\Proyecto final prog\Proyecto final prog\obj\Debug\Proyecto_final_prog.Form1.resources
+C:\Users\XIAOMI\Desktop\Proyecto final prog\Proyecto final prog\obj\Debug\Proyecto_final_prog.Properties.Resources.resources
+C:\Users\XIAOMI\Desktop\Proyecto final prog\Proyecto final prog\obj\Debug\Proyecto final prog.csproj.GenerateResource.Cache
+C:\Users\XIAOMI\Desktop\Proyecto final prog\Proyecto final prog\obj\Debug\Proyecto final prog.exe
+C:\Users\XIAOMI\Desktop\Proyecto final prog\Proyecto final prog\obj\Debug\Proyecto final prog.pdb
